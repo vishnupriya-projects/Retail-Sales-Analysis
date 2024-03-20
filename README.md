@@ -80,4 +80,5 @@ To understand location where business is huge/low need to deep down the data.
 - Furniture category has least profits although sales are good & discount also offered less, which means need to revise/recheck the original prices of this product to reduce negative profits.
 - It represents that every city has their own demand products & this analysis helps to predict further demand and maintain inventory according to the city requirement to reduce losses. 
 
-
+### Acknowledgement
+Thanks to spark foundation for providing this project as part of their data science & analyst internship.
